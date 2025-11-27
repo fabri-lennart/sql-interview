@@ -1,6 +1,6 @@
 # Cracking SQL Interview
 
-![SQL Mastery](https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif)
+<img src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="900">
 
 A comprehensive collection of SQL interview questions and solutions designed to help you prepare for Data Engineering interviews. This repository covers everything from basic queries to advanced optimization techniques, window functions, and complex data analysis patterns.
 
@@ -10,7 +10,6 @@ A comprehensive collection of SQL interview questions and solutions designed to 
 
 ### Prerequisites
 - **DuckDB** (No installation required - portable SQL database)
-- Python 3.8+ (optional, for running scripts)
 - Any text editor or SQL IDE
 
 ### Why DuckDB?
@@ -178,10 +177,6 @@ cracking-sql-interview/
 │
 ├── images/                        # 🖼️ README visuals
 │   └── sql_mastery.gif
-│
-├── scripts/
-│   └── check_solutions.py         # 🧪 Test your solutions
-│
 └── README.md                      # This file
 ```
 
