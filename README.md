@@ -1,6 +1,11 @@
 # Cracking SQL Interview
 
-<img src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="900">
+<img 
+  src="https://github.com/user-attachments/assets/bd68100f-303f-41f6-9149-c34f6cfd18d2" 
+  alt="image"
+  width="900"
+/>
+
 
 A comprehensive collection of SQL interview questions and solutions designed to help you prepare for Data Engineering interviews. This repository covers everything from basic queries to advanced optimization techniques, window functions, and complex data analysis patterns.
 
