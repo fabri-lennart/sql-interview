@@ -1,9 +1,9 @@
 # Cracking SQL Interview
 
 <img 
-  src="https://github.com/user-attachments/assets/bd68100f-303f-41f6-9149-c34f6cfd18d2" 
+  src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600,c_limit/sql_normal.gif"
   alt="image"
-  width="900"
+  width="1000"
 />
 
 
